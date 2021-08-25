@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "ALE: automated label extraction from GEO metadata"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LfwTrvMAAAAJ&authuser=1&citation_for_view=LfwTrvMAAAAJ:u-x6o8ySG0sC'
+citation: 'Cory B Giles, Chase A Brown, Michael Ripperger, Zane Dennis, Xiavan Roopnarinesingh, Hunter Porter, Aleksandra Perz, Jonathan D Wren. &quot;ALE: automated label extraction from GEO metadata.&quot; <i>BMC bioinformatics</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Extracted and prepared gold standard for testing predicted annotations, helped develop label extraction tools. 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LfwTrvMAAAAJ&authuser=1&citation_for_view=LfwTrvMAAAAJ:u-x6o8ySG0sC)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Giles CB, Brown CA, Ripperger M, et al. ALE: automated label extraction from GEO metadata. BMC Bioinformatics. 2017;18(14):509..
