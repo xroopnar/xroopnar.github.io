@@ -33,14 +33,14 @@ Work experience
 
 Skills
 ======
-* Python
-* R
-* Julia
+* Python. Seaborn, Pandas, Numpy, Scipy, Scikit-learn, Statsmodels, Plotly
+* R. ggplot, Limma, Methylumi, deseq2
 * Keras and PyTorch
 * * Linux and Cluster computing
 * Next-Gen Sequencing alignment and analysis
 * DNA methylation analysis 
-
+* Julia
+* 
 Publications
 ======
   <ul>{% for post in site.publications %}
