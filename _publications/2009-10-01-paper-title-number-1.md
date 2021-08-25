@@ -6,7 +6,7 @@ excerpt:
 date: 2019-01-01
 venue: 'BMC Bioinformatics'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LfwTrvMAAAAJ&authuser=1&citation_for_view=LfwTrvMAAAAJ:u5HHmVD_uO8C'
-citation: 'AI Perz, CB Giles, CA Brown, H Porter, X Roopnarinesingh, JD Wren. (2019). &quot;MNEMONIC: MetageNomic Experiment Mining to create an OTU Network of Inhabitant Correlations&quot; <i>Journal 1</i>. 1(1).'
+citation: 'AI Perz, CB Giles, CA Brown, H Porter, X Roopnarinesingh, JD Wren. (2019). &quot;MNEMONIC: MetageNomic Experiment Mining to create an OTU Network of Inhabitant Correlations&quot; <i>BMC Bioinformatics</i>. 1(1).'
 ---
 Helped identify biologically relevant associations between microbe genomes and health conditions. 
 
