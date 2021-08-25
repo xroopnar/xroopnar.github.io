@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology-Chemistry, Souther Nazarene University, 2013
+* Ph.D in Biochemistry, University of Oklahoma Health Sciences Center, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2013-2015: Research Technician
+  * Oklahoma Medical Research Foundation
+  * Duties included: profiling simple tandem repeats in human genomes using lobSTR, profile DNA methylation across microarrays available in GEO
+  * Supervisor: Jonathan Wren
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2012: Research Assistant
+  * Southern Nazarene University
+  * Duties included: establishing standard curve for cholesterol esterase activity
+  * Supervisor: Daryl Cox
+
+* Fall 2010-2012: Teaching Assistant
+  * Southern Nazarene University
+  * Duties included: Supervised, lectured, and prepared tests for labs in Cells and Systems
+  * Supervisor: Caroline Bentley
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* R
+* Julia
+* Keras and PyTorch
+* * Linux and Cluster computing
+* Next-Gen Sequencing alignment and analysis
+* DNA methylation analysis 
 
 Publications
 ======
@@ -53,7 +58,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
