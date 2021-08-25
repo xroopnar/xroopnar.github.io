@@ -3,7 +3,7 @@ title: "Multi-tissue DNA methylation microarray signature is predictive of gene 
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Manuscript submitted.'
-date: 2021
+date: 2021-01-01
 venue: 'Epigenetics'
 paperurl:
 citation: 'Xiavan‌ ‌Roopnarinesingh,‌ ‌Hunter‌ ‌Porter,‌ ‌Cory‌ ‌Giles,‌ ‌Chase‌ ‌Brown,‌ ‌Constantin‌ ‌Georgescu,‌ ‌Jonathan‌ D. ‌Wren‌ ‌. (2021) &quot;Multi-tissue DNA methylation microarray signature is predictive of gene function.&quot; <i>Journal 1</i>. 1(3).'
