@@ -6,7 +6,7 @@ excerpt: 'Manuscript submitted.'
 date: 2021-01-01
 venue: 'Epigenetics'
 paperurl:
-citation: 'Xiavan‌ ‌Roopnarinesingh,‌ ‌Hunter‌ ‌Porter,‌ ‌Cory‌ ‌Giles,‌ ‌Chase‌ ‌Brown,‌ ‌Constantin‌ ‌Georgescu,‌ ‌Jonathan‌ D. ‌Wren‌ ‌. (2021) &quot;Multi-tissue DNA methylation microarray signature is predictive of gene function.&quot; <i>Journal 1</i>. 1(3).'
+citation: '**Xiavan‌ ‌Roopnarinesingh**,‌ ‌Hunter‌ ‌Porter,‌ ‌Cory‌ ‌Giles,‌ ‌Chase‌ ‌Brown,‌ ‌Constantin‌ ‌Georgescu,‌ ‌Jonathan‌ D. ‌Wren‌ ‌. (2021) &quot;Multi-tissue DNA methylation microarray signature is predictive of gene function.&quot; <i>Journal 1</i>. 1(3).'
 ---
 Predicting gene function across different representative values for DNA methylation at a given gene locus. 
 
