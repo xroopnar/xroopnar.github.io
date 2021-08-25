@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in Biochemistry and Molecular Biology at the [University of Oklahoma Health Sciences Center](https://basicsciences.ouhsc.edu/bmb/) who performs research in [Jonathan Wren's lab at the Oklahoma Medical Research Foundation](https://omrf.org/research-faculty/scientists/wren-jonathan-d/). In our lab, we are interested in understanding how patterns in publically-available data can identify relationships between genes. My thesis research leverages the influx of avaiable DNA methylation microarray data to identify how gene function is associated with the methylation status of a given gene. Using traditional machine learning as well as deep-learning techniques, I generate predictions for the relationship between genes and evaluate how predictive different regions of the methylome are compared to the existing methods using gene expression. 
+I am a Ph.D candidate in Biochemistry and Molecular Biology at the [University of Oklahoma Health Sciences Center (OUHSC)](https://basicsciences.ouhsc.edu/bmb/) and I do my research in [Jonathan Wren's lab at the Oklahoma Medical Research Foundation (OMRF)](https://omrf.org/research-faculty/scientists/wren-jonathan-d/). My thesis research leverages the influx of avaiable DNA methylation microarray data to identify how gene function is associated with the methylation status of a given gene. Using traditional machine learning as well as deep-learning techniques, I generate predictions for the relationship between genes and evaluate how predictive different regions of the methylome are compared to the existing methods using gene expression. 
 
+
+Background
+======
+I received my B.S. in Biology-Chemistry in 2013 from Southern Nazarene University in Oklahoma. After that, I was a research technician at OMRF where I built my skills as a programmer and developed my research interests in informatics and exploring the biomedical data available in repositories like the [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) and [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra). I developed tools to help analyze collaborator sequencing and microarray data, as well as built and administered the hardware and software necessary for high performance Linux computing in my lab. In grad school, I rotated through labs to develop a solid foundation in wet lab techniques including cell culture and high-throughput sequencing.
 
 Interests
 ======
