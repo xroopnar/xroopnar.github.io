@@ -11,6 +11,5 @@ citation: 'Xiavan‌ ‌Roopnarinesingh,‌ ‌Hunter‌ ‌Porter,‌ ‌Cory�
 Predicting gene function across different representative values for DNA methylation at a given gene locus. 
 
 [Download paper here (TBA)](http://academicpages.github.io/files/paper3.pdf)
-<---
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
---->
+
+Recommended citation: TBA
