@@ -12,5 +12,5 @@ Helped identify biologically relevant associations between microbe genomes and h
 
 [Download paper here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LfwTrvMAAAAJ&authuser=1&citation_for_view=LfwTrvMAAAAJ:u5HHmVD_uO8C)
 
-Recommended citation: MNEMONIC: MetageNomic Experiment Mining to create an OTU Network of Inhabitant CorrelationsAI Perz, CB Giles, CA Brown, H Porter, X Roopnarinesingh, JD Wren
+Recommended citation: MNEMONIC: MetageNomic Experiment Mining to create an OTU Network of Inhabitant CorrelationsAI Perz, CB Giles, CA Brown, H Porter, **X Roopnarinesingh**, JD Wren
 BMC bioinformatics 20 (2), 59-71.
