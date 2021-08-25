@@ -36,7 +36,7 @@ Skills
 * Python. Seaborn, Pandas, Numpy, Scipy, Scikit-learn, Statsmodels, Plotly
 * R. ggplot, Limma, Methylumi, deseq2
 * Keras and PyTorch
-* * Linux and Cluster computing
+* Linux and Cluster computing
 * Next-Gen Sequencing alignment and analysis
 * DNA methylation analysis 
 * Julia
