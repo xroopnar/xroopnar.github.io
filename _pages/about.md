@@ -13,43 +13,18 @@ I am a Ph.D candidate in Biochemistry and Molecular Biology at the [University o
 
 Background
 ======
-I received my B.S. in Biology-Chemistry in 2013 from Southern Nazarene University in Oklahoma. After that, I was a research technician at OMRF where I built my skills as a programmer and developed my research interests in informatics and exploring the biomedical data available in repositories like the [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) and [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra). I developed tools to help analyze collaborator sequencing and microarray data, as well as built and administered the hardware and software necessary for high performance Linux computing in my lab. In grad school, I rotated through labs to develop a solid foundation in wet lab techniques including cell culture and high-throughput sequencing.
+I received my B.S. in Biology-Chemistry in 2013 from Southern Nazarene University in Oklahoma. After that, I was a research technician at OMRF where I built my skills as a programmer and developed my research interests in informatics and exploring the biomedical data available in repositories like the [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/) and [Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra). I developed tools to help prepare and analyze collaborator sequencing and microarray data, as well as built and administered the hardware and software necessary for high performance Linux computing in my lab. In grad school, I rotated through labs to develop a solid foundation in wet lab techniques including cell culture and high-throughput sequencing. 
 
 Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Using cutting-edge techniques to develop models leveraging biomedial data. I enjoy developing useful presentations that communicate complex findings catered to the audience's domain knowledge, as well as adapting new and fresh data visualizations to enhance the way I present findings. As part of the skillset required for effective bioinformatics work, I am proficient and always learning more about managing software and Linux servers, as well as cluster computing and parallelization tools. Similarly, deep learning and GPU computing has become an increasingly important part of the way I approach problems, and I am always happy to discuss developments in neural networks, whether it's the latest OpenAI paper, or clinical implementations of deep learning models as diagnostic tools.  
 
 Skills
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. **Next-gen sequencing** QC, alignment, differential expression analysis, as well as downstream pathway and GO analysis. Experienced with analyzing data from Illumina platforms
+1. **DNA methylation analysis** - Analyzing Illumina methylation microarrays and bisulfite sequencing data, performing meta-analysis and differential methylation
+1. **Data visualization** - Proficient with visualization libraries in Python, R, Javascript and Julia - especially Seaborn and Plotly
+1. **Linux skills** - I'm comfortable with managing and troubleshooting the Linux-based software required for cutting edge machine learning and data analysis
+1. **Statistics** - Knowledgable of proper controls, testing, and statistical corrections essential for evaluating results, and are necessary considerations for experimental design and sequencing runs
+1. **Machine learning** - I frequently utilize traditional machine learning to predict a feature of interest for collaborator analyses, and am proficient with Python and R libraries for machine learning including scikit-learn and limma. 
+1. **Deep learning** - I have leveraged both PyTorch and keras libraries in Python for predicting gene function using DNA methylation, and am generally familiar with the tools necessary for training a neural network. 
