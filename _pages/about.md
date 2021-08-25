@@ -26,5 +26,5 @@ Skills
 1. **Data visualization** - Proficient with visualization libraries in Python, R, Javascript and Julia - especially Seaborn and Plotly
 1. **Linux skills** - I'm comfortable with managing and troubleshooting the Linux-based software required for cutting edge machine learning and data analysis
 1. **Statistics** - Knowledgable of proper controls, testing, and statistical corrections essential for evaluating results, and are necessary considerations for experimental design and sequencing runs
-1. **Machine learning** - I frequently utilize traditional machine learning to predict a feature of interest for collaborator analyses, and am proficient with Python and R libraries for machine learning including scikit-learn and limma. 
-1. **Deep learning** - I have leveraged both PyTorch and keras libraries in Python for predicting gene function using DNA methylation, and am generally familiar with the tools necessary for training a neural network. 
+1. **Machine learning** - I frequently utilized traditional machine learning to predict a feature of interest for collaborator analyses, and am proficient with Python and R libraries for machine learning including scikit-learn and limma. 
+1. **Deep learning** - I have leveraged both PyTorch and Keras libraries in Python for predicting gene function using DNA methylation, and am generally familiar with the tools necessary for training a neural network. 
