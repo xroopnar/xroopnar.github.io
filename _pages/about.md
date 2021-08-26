@@ -21,7 +21,7 @@ Using cutting-edge techniques to develop models leveraging biomedial data. I enj
 
 Skills
 ======
-1. **Next-gen sequencing** QC, alignment, differential expression analysis, as well as downstream pathway and GO analysis. Experienced with analyzing data from Illumina platforms
+1. **Next-gen sequencing** - QC, alignment, differential expression analysis, as well as downstream pathway and GO analysis. Experienced with analyzing data from Illumina platforms
 1. **DNA methylation analysis** - Analyzing Illumina methylation microarrays and bisulfite sequencing data, performing meta-analysis and differential methylation
 1. **Data visualization** - Proficient with visualization libraries in Python, R, Javascript and Julia - especially Seaborn and Plotly
 1. **Linux skills** - I'm comfortable with managing and troubleshooting the Linux-based software required for cutting edge machine learning and data analysis
