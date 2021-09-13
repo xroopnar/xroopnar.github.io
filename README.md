@@ -1,7 +1,11 @@
 Forked version of the AcademicPages Github Pages template I use for my personal website (xroopnar.github.io). The original README.md is below:
 
 ### TODOS:
-Fix skills in About sections (more detailed, follow resume format), add link directly to resume (overleaf link), add portfolio section, add extended skill section to CV and remove teaching section or convert it to talks/workshops. 
+* Fix skills in About sections (more detailed, follow resume format)
+* add link directly to resume (overleaf link)
+* add portfolio section 
+* add extended skill section to CV
+* remove teaching section or convert it to talks/workshops. 
 
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
