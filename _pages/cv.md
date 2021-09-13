@@ -33,12 +33,12 @@ Work experience
 
 Skills
 ======
-* Python. Seaborn, Pandas, Numpy, Scipy, Scikit-learn, Statsmodels, Plotly
+* Python. Seaborn, Pandas, Numpy, Scipy, Scikit-learn, Statsmodels, Plotly, Dash
 * R. ggplot, Limma, Methylumi, deseq2
 * Keras and PyTorch
 * Linux and Cluster computing
-* Next-Gen Sequencing alignment and analysis
-* DNA methylation analysis 
+* Next-Gen Sequencing alignment and analysis, Bismark, Bowtie, Sam/Bamtools, FastQC, Kallisto, Arioc
+* DNA methylation analysis
 * Julia
 
 Publications
@@ -53,9 +53,25 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-
-Teaching
+Conference Presentations
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions. BMB Departmental Seminar Series, OUHSC, 2017
+* Collapsing DNA Methylation to Informative Genomic Features for Biological Classification. BMB Departmental Seminar Series, OUHSC, 2018
+* Collapsing DNA Methylation to Informative Genomic Features for Biological Classification. BMB Departmental Seminar Series, OUHSC, 2019
+* DNA methylation’s predictive capacity for biological annotations is dispersed across the methylome and not limited to promoter regions. BMB Departmental Seminar Series, OUHSC, 2020
+* Predicting gene function from a global methylation microarray network meta-analysis. BMB Departmental Seminar Series, OUHSC, 2021
+* Introduction to Data Visualization, Scientific Python User’s Group (SPUG), OUHSC, 2019
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions. Genes and Human Disease Department Seminar, OMRF, 2020
+* Biological Classification Using Collapsed Feature Methylation. GREAT, OUHSC, 2016
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions. GREAT, OUHSC, 2017
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions. GREAT, OUHSC, 2018
+* Assessing Correlation of Methylation State of CpG Sites within CpG Islands. MCBIOS, OUHSC, 2016
+* Assessing Correlation of Methylation State of CpG Sites within Promoter Regions. MCBIOS, OUHSC, 2017
+* Gene Function Prediction Using Global Meta-Analysis of Promoter-Associated CpG Comethylation. MCBIOS, OUHSC, 2018
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions. OU BMB Retreat, 2017
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions. OMRF Retreat, 2017-18, OMRF
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions. Oklahoma Geroscience Symposium, 2018-2019
+* American Aging Association (AGE) 48th Annual Meeting, 2019
+* DNA methylation’s predictive capacity for biological annotations is dispersed across the methylome and not limited to promoter regions. ISMB, Virtual Conference, 2020
+* DNA methylation’s predictive capacity for biological annotations is not limited to promoter regions
+
