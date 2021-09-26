@@ -15,7 +15,7 @@ Xiavan‌ ‌Roopnarinesingh, ‌Hunter‌ ‌Porter,‌ ‌Cory‌ ‌Giles,‌
 Correlated different regions of the methylome to expression in paired methylation data from TCGA. These genes were compared to the gene function prediction performance, with gene body prediction performance increasing with correlation to expression, while the predictive performance decreased with correlation to expression. Identified varied associations of methylation expression including repressive hypermethylation of promoters and hypermethylation in gene bodies across varied expression levels. 
 
 
-Code repository with tools available on GitHub: https://github.com/xroopnar/GDC-paired-expression
+Code repository with tools available on GitHub: [https://github.com/xroopnar/GDC-paired-expression](https://github.com/xroopnar/GDC-paired-expression)
 
 ## Trend deviation analysis
 
@@ -32,4 +32,4 @@ Managed Linux distributions for shared computing infrastructure, including Bisma
 Cory B. Giles, Chase A. Brown, Michael Ripperger, Zane Dennis, Xiavan Roopnarinesingh, Hunter Porter, Aleksandra Perz, and Jonathan D. Wren. ALE: automated label extraction from GEO metadata. BMC Bioinformatics. 2017;18(S14):509.
 
 
-Recorded presentations for Data Science Workshop: https://xroopnar.github.io/talks/
+Recorded presentations for Data Science Workshop: [https://xroopnar.github.io/talks/](https://xroopnar.github.io/talks/)
