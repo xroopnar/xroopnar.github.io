@@ -24,6 +24,10 @@ By combining the global correlation network of DNA methylation microarray data i
 
 Manuscript in progress
 
+
+Code repository with tools available on GitHub: [https://github.com/xroopnar/TDA](https://github.com/xroopnar/TDA)
+
+
 ## Scientific computing and deep learning 
 
 Managed Linux distributions for shared computing infrastructure, including Bismark bisulfite sequencing workflows, Cellranger, and GPU-accelerated Tensorflow, as well as serving data from disk arrays over network for collaborator use. Contributed to developing tools for automatically annotating GEO data with annotation information. Developed workshops for scientists with novice to intermediate programming skills to make plots in Plotly and Seaborn and interactive webapps in Python Dash using microarray and sequencing data. Developed and presented deep learning autoencoders for DNA methylation gene function prediction. 
@@ -32,4 +36,4 @@ Managed Linux distributions for shared computing infrastructure, including Bisma
 Cory B. Giles, Chase A. Brown, Michael Ripperger, Zane Dennis, Xiavan Roopnarinesingh, Hunter Porter, Aleksandra Perz, and Jonathan D. Wren. ALE: automated label extraction from GEO metadata. BMC Bioinformatics. 2017;18(S14):509.
 
 
-Recorded presentations for Data Science Workshop: [https://xroopnar.github.io/talks/](https://xroopnar.github.io/talks/)
+Recorded presentations for Data Science Workshop: [https://xroopnar.github.io/talks](https://xroopnar.github.io/talks/)
