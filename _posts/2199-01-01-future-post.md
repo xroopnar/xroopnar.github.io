@@ -1,11 +1,12 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'ASHG 2022'
+date: 2022-10-27
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - ASHG
+  - genetics
+  - conference
+  - notes
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Thoughts from day 1 of ASHG 2022.
